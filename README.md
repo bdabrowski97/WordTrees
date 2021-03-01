@@ -66,7 +66,7 @@ Overall, looking at the code itself, it is fairly simple and easy to understand.
 Although, it is a bit scattered with global variables, most if not all game relevant mechanics are present within a single GameMaster object. <br>
 This GameMaster object then references a bunch of scripts to keep the code cleaner looking and to avoid repeating lines of code 27 times in a row. <br>
 <br>
-The project says I've worked on it for a little over 24 hours, I think it came out pretty nice all thingd considered. <br>
+The project says I've worked on it for a little over 24 hours, I think it came out pretty nice all things considered. <br>
 
 <br>
 
