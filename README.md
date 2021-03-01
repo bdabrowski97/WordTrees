@@ -24,7 +24,7 @@ Hearts are restored every 30 points scored.<br>
 ![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/Screenshots/highscore.png)
 <br>
 
-<h1><b>FEATURES</h1><b>
+<h1><b>FEATURES</h1></b>
  <br>
   
   Real wood chopping action! <b>Watch those chips fly!</b><br>
