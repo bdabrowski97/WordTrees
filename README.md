@@ -1,16 +1,27 @@
 # WordTrees
-<b> This is my second full game I've made in GMS2, the first being Conway's the Game of Life.<br> That game can be found here https://github.com/bdabrowski97/ConwayGameOfLifeGML </b>
+<b> This is my second full game I've made in GMS2, the first being Conway's the Game of Life.<br> That game can be found here https://github.com/bdabrowski97/ConwayGameOfLifeGML </b> <br>
+
+![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/Screenshots/title.png)<br>
+
 
 <br><br>
 
 <b>The objective in WordTrees is to type as many words/phrases you can before you run out of hearts.</b><br>
-![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/sprites/sHeart/01f1b2cc-48aa-429d-9523-a29a78f81f98.png)![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/sprites/sHeart/01f1b2cc-48aa-429d-9523-a29a78f81f98.png)![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/sprites/sHeart/01f1b2cc-48aa-429d-9523-a29a78f81f98.png)
+![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/sprites/sHeart/01f1b2cc-48aa-429d-9523-a29a78f81f98.png)
+![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/sprites/sHeart/01f1b2cc-48aa-429d-9523-a29a78f81f98.png)
+![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/sprites/sHeart/01f1b2cc-48aa-429d-9523-a29a78f81f98.png)
 <br><br>
+
+![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/Screenshots/gameplay.png)
+<br>
 
 For every wrong key input while spelling, you lose a heart.<br> 
 Or, if you take longer than 5 seconds to finish a word, you lose a heart.<br> 
 If you lose all three hearts the game ends.<br>
 Hearts are restored every 30 points scored.<br>
+<br>
+
+![alt text](https://github.com/bdabrowski97/WordTrees/blob/master/Screenshots/highscore.png)
 <br>
 
 <h1><b>FEATURES</h1><b>
