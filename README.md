@@ -94,4 +94,8 @@ The project says I've worked on it for a little over 24 hours, I think it came o
   
   Images of trees for title screen were obtained through the duckduckgo image search.<br>
   However, I do not remember the exact URLs for the images. :(
+  <br><br><br>
+  <h1><b>IMPORTANT: SAVE DATA LOCATION!</b></h1>
+  Save data for WordTrees high score is located in: <br>
+  This PC > Local Disk(C:) > Users > {USER} > AppData > Local > WordTrees
   
