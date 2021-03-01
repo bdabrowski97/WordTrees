@@ -72,7 +72,7 @@ The project says I've worked on it for a little over 24 hours, I think it came o
 
  <h1><b>Credits</h1></b><br>
   I got the sound effects for the wood cutting noises and background ambiences from freesound.org.<br>
-  Specifically, I used these: <br>
+  Specifically, I used these: <br><br>
   
   <i>Log Falling in Forest.wav</i> by kev_durr <br>
   https://freesound.org/people/kev_durr/sounds/396509/ 
@@ -91,4 +91,7 @@ The project says I've worked on it for a little over 24 hours, I think it came o
   
   <i>chop.wav</i> by hazure <br> 
   https://freesound.org/people/hazure/sounds/23700/ (License: https://creativecommons.org/licenses/by/3.0/) <br>
+  
+  Images of trees for title screen were obtained through the duckduckgo image search.<br>
+  However, I do not remember the exact URLs for the images. :(
   
